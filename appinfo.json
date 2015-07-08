@@ -14,13 +14,13 @@
       {
         "type": "font",
         "name": "FONT_PERFECT_DOS_48",
-        "file": "resources/font.ttf",
+        "file": "font.ttf",
         "compatibility": "2.7"
       },
       {
         "type": "font",
         "name": "FONT_PERFECT_DOS_20",
-        "file": "resources/font.ttf",
+        "file": "font.ttf",
         "compatibility": "2.7"
       }
     ]
