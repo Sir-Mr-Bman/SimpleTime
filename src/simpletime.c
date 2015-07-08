@@ -1,8 +1,8 @@
 /*
     simpletime.c
     Part of the SimpleTime project for Pebble.
-    Created by Brennan Macaig.
-    Copyright (C) 2015 Brennan Macaig under the M.I.T. license.
+    Created by Sir_Mr_Bman
+    Copyright (C) 2015 Sir_Mr_Bman under the M.I.T. license.
 */
 
 #include <pebble.h>
