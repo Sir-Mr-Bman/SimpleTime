@@ -1,0 +1,33 @@
+{
+  "uuid": "ed70b15c-3c48-4828-8e8c-e39a28efb38d",
+  "shortName": "Simple",
+  "longName": "Simple Time",
+  "companyName": "Brennan M",
+  "versionCode": 2,
+  "versionLabel": "2.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {},
+  "resources": {
+    "media": [
+      {
+        "type": "font",
+        "name": "FONT_PERFECT_DOS_48",
+        "file": "resources/font.ttf",
+        "compatibility": "2.7"
+      },
+      {
+        "type": "font",
+        "name": "FONT_PERFECT_DOS_20",
+        "file": "resources/font.ttf",
+        "compatibility": "2.7"
+      }
+    ]
+  },
+  "targetPlatforms": [
+    "aplite",
+    "basalt"
+  ],
+  "sdkVersion": "3"
+}
